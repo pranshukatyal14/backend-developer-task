@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "APP_PORT": 4108,
+        "IS_SELF": true,
+        "mongodb_url": "mongodb://localhost:27017/task-manager"
+    }
+  
+}
